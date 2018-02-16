@@ -1,0 +1,23 @@
+[Info]
+name="Ugandan Knuckles"
+displayname="Ugandan Knuckles"
+versiondate=1/6/2018
+mugenversion=04,14,2001
+author="EX Falchion"
+pal.defaults=1,2,3,4,5
+[Files]
+sprite=ugandanknuckles.sff
+sound=ugandanknuckles.snd
+anim=ugandanknuckles.air
+cmd=ugandanknuckles.cmd
+cns=ugandanknuckles.cns
+st=ugandanknuckles.cns
+stcommon=common1.cns
+pal1=ugandanknuckles.act
+pal2=ugandanknuckles.act
+pal3=ugandanknuckles.act
+pal4=ugandanknuckles.act
+pal5=ugandanknuckles.act
+[Arcade]
+intro.storyboard=
+ending.storyboard=
