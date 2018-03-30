@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{D5F4DDA4-649A-491F-F262-1994AAAE4227}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Let's Try Shooter/Scripts/CompletedScripts/ShootableBox.cs">
+    <Files>
+      <File FileName="Assets/Let's Try Shooter/Scripts/CompletedScripts/ShootableBox.cs" Line="27" Column="26" />
+      <File FileName="../Unity Les 3/Assets/PlaySound.cs" Line="14" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

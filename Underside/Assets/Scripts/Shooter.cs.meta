@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f260fe4979c0f4743a6172faacc4f321
+timeCreated: 1522087567
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - lineObject: {instanceID: 0}
+  - gunClip: {instanceID: 0}
+  - lineMaterial: {fileID: 2100000, guid: 41f8275b15a5e4f9f9299489f2c67482, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

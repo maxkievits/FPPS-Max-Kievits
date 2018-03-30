@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{9FA6CBAB-4084-6833-A5EC-860126525CAD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AnimationLooper.cs">
+    <Files>
+      <File FileName="Assets/AnimationLooper.cs" Line="4" Column="22" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

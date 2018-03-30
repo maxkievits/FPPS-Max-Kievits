@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{81F3E300-BC4C-A780-9162-36F0AAFA5EFD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/pickup.cs">
+    <Files>
+      <File FileName="Assets/pickup.cs" Line="37" Column="50" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Unity_220Les_2206 PreferredExecutionTarget="Unity.Editor" />
+</Properties>

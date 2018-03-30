@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{80349F68-A468-5A7E-3508-9A173557034E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/ColorChanger.cs">
+    <Files>
+      <File FileName="Assets/ColorChanger.cs" Line="32" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
